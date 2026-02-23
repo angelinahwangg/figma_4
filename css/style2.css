@@ -1,0 +1,139 @@
+.contact-page,
+.contact-page * {
+  box-sizing: border-box;
+}
+.contact-page {
+  background: #000000;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.bmgt-407 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "NotoSansGeorgian-Black", sans-serif;
+  font-size: 32px;
+  font-weight: 900;
+  position: absolute;
+  left: 96px;
+  top: 50px;
+}
+.menu-items {
+  display: flex;
+  flex-direction: row;
+  gap: 99px;
+  align-items: center;
+  justify-content: flex-start;
+  height: 38px;
+  position: absolute;
+  left: 753px;
+  top: 50px;
+}
+.homepage {
+  color: #ffffff;
+  text-align: left;
+  font-family: "NotoSansGeorgian-Black", sans-serif;
+  font-size: 32px;
+  font-weight: 900;
+  position: relative;
+}
+.about {
+  color: #ffffff;
+  text-align: left;
+  font-family: "NotoSansGeorgian-Black", sans-serif;
+  font-size: 32px;
+  font-weight: 900;
+  position: relative;
+}
+.contact {
+  color: #ffffff;
+  text-align: left;
+  font-family: "NotoSansGeorgian-Black", sans-serif;
+  font-size: 32px;
+  font-weight: 900;
+  position: relative;
+}
+.body {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 856px;
+  height: 471px;
+  position: absolute;
+  left: 143px;
+  top: 234px;
+}
+.contact-us {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 64px;
+  font-weight: 700;
+  position: relative;
+  align-self: stretch;
+}
+.reach-out-to-the-course-team-for-support-or-inquires {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Medium", sans-serif;
+  font-size: 32px;
+  font-weight: 500;
+  position: relative;
+  align-self: stretch;
+}
+.professor-contact {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  position: relative;
+  align-self: stretch;
+}
+.paul-t-shapiro-pshapiro-umd-edu {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 28px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.ta-contact-details {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  position: relative;
+  align-self: stretch;
+}
+.bharath-sreekumar-bsreekum-umd-edu {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 28px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.caifu-lin-clin-0817-umd-edu {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 28px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.sumanth-devara-sdevara-umd-edu {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 28px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
